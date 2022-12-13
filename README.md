@@ -7,3 +7,4 @@ In this folder you will find the following:
 2. The function py. file used to develop the project.
 3. A link to the visualizations created in Tableau here: https://public.tableau.com/app/profile/hlh.data.analyst/viz/DescriptivestatisticsofMonumentsinIstanbul/Hoja3
 4. The jupyter notebook with comments explaining what was developed in each stage of the project.
+5. The csv and json files where all the information was obtained.
