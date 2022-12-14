@@ -1,0 +1,101 @@
+,name,rating,reviews,description,descriptor,Location,type,cafe,bar,spa,lodging,restaurant,bakery,store,night_club,book_store,tourist_attraction,florist,liquor_store,movie_rental,electronics_store,home_goods_store,movie_theater,gym,health,parking,gas_station,car_wash,convenience_store,car_repair,art_gallery,park,meal_takeaway,meal_delivery,locality,political,general_contractor,police,laundry
+0,Mezquita Azul,4.7,82703,Famosa Mezquita Azul con 6 alminares,Mezquita,Fatih,0,20,2,1,1,11,3,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,Gran Bazar,4.4,117603,Laberinto de vistosos mercados cubiertos,Mercado,Fatih,0,20,2,0,0,9,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Bazar de las Especias,4.5,138987,Mercado de especias y productos textiles,Mercado,Fatih,0,20,2,1,1,10,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Mezquita de Suleiman,4.9,43378,Histórica mezquita otomana del siglo XVI,Mezquita,Fatih,1,20,1,0,0,8,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Hipódromo de Constantinopla,4.7,26368,Plaza con los restos de un hipódromo,Parque,Fatih,3,20,2,1,1,11,3,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Puente de Gálata,4.6,29544,Puente moderno sobre el Cuerno de Oro,Obra moderna,Beyoğlu,2,20,3,1,2,10,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Parque Gülhane,4.7,52262,Apacible parque urbano con jardines y museo,Parque,Fatih,0,20,2,1,1,14,3,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Rumeli Hisarı,4.6,10961,Antigua fortaleza con vistas panorámicas,Espacio histórico,Sarıyer,4,20,0,0,0,6,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Eyüp Sultan Mosque,4.8,53405,Mezquita histórica con un mausoleo,Mezquita,Eyüpsultan,5,20,1,0,1,5,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Parque Emirgan,4.6,41937,Parque pintoresco con zonas de juego y senderos,Parque,Reşitpaşa,6,20,0,0,0,9,0,5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Mezquita de Fatih,4.8,31392,Mezquita colosal con varias cúpulas,Mezquita,Fatih,0,20,0,0,0,9,0,5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Yıldız Park,4.7,30383,Parque urbano con un museo en un palacio otomano,Parque,Beşiktaş,1,20,1,0,0,6,4,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,Palacio Beylerbeyi,4.7,10662,Palacio de verano histórico con jardines,Espacio histórico,Üsküdar,1,20,0,0,0,6,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,Palacio de Çırağan,4.7,9000,"Hotel con spa, piscina y helipuerto",Espacio histórico,Beşiktaş,3,20,2,0,0,9,1,5,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,Mezquita Nueva,4.7,8762,Emblemática mezquita del siglo XVII,Mezquita,Fatih,0,20,2,1,1,10,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,Istanbul Aquarium,4.4,27816,Gran acuario con tienda de regalos y cafeterías,Aquarium,Florya,6,20,0,0,0,4,1,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,Iglesia de San Antonio de Padua,4.6,12538,Iglesia católica de 1912,Iglesia,Beyoğlu,1,20,7,0,3,9,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,Torre de la Doncella,4.7,16851,Torre en un islote accesible en barco,Espacio histórico,Üsküdar,3,20,0,0,0,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Plaza Beyazit,4.5,21037,Plaza pública frente a la universidad,Plaza,Fatih,0,20,2,0,0,8,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,Mezquita de Ortaköy,4.8,29338,Mezquita barroca con una luz única,Mezquita,Beşiktaş,0,20,1,0,0,8,3,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,Mezquita de Rüstem Paşa,4.7,4270,Histórica mezquita famosa por sus azulejos,Mezquita,Fatih,0,20,2,1,1,10,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,Pasaje de las Flores,4.4,12903,"Pasaje histórico, tiendas y cafeterías",Espacio histórico,Beyoğlu,1,20,7,0,4,10,0,3,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,Mezquita de Nuruosmaniye,4.8,8791,Gran mezquita otomana del siglo XVIII,Mezquita,Fatih,0,20,2,1,1,13,4,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,Taksim Square,4.4,40700,Plaza extensa y céntrica con un monumento,plaza,Beyoğlu,0,20,4,1,4,5,0,3,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,Anadoluhisarı,4.6,5293,Fortaleza del siglo XIV frente al Bósforo,Espacio histórico,Beykoz,5,20,1,0,0,8,2,5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+25,Columna de Constantino,4.6,7717,Columna de piedra de los antiguos romanos,Espacio histórico,Fatih,0,20,3,1,1,12,4,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,Madame Tussauds Istanbul,4.4,10946,"Museo de cera, escultura y museo",Museo,Beyoğlu,1,20,7,1,5,10,0,2,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,Maçka Demokrasi Parkı,4.5,6182,Parque informal con un pasado oscuro,Parque,Şişli,3,20,1,1,2,6,2,9,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+28,Iglesia de San Sergio y San Baco,4.7,3863,Histórica mezquita abovedada de estilo bizantino,Iglesia ,Fatih,1,20,3,0,0,12,2,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+29,SEA LIFE,4.3,12981,Acuario y testudines,Aquarium,Bayrampaşa,3,20,0,0,0,4,3,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VIALAND Tema Park,4.2,39920,Parque temático familiar y centro comercial,Parque temático,Eyüpsultan,6,20,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,Cisterna de Teodosio,4.6,6377,Cisterna histórica de 1600 años de antigüedad,Espacio histórico,Fatih,1,20,2,1,1,11,3,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Küçüksu Kasrı (Milli Saraylar),4.6,4403,"Palacio, arquitectura e historia",Espacio histórico,Beykoz,1,20,1,0,0,7,2,6,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+33,Mihrimah Sultan Mosque,4.8,3875,Majestuosa mezquita del siglo XVI,Mezquita,Üsküdar,0,20,0,0,0,2,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Yavuz Sultan Selim Mosque,4.9,4966,Arquitectura otomana y vistas del Cuerno de Oro,Mezquita,Fatih,0,20,0,0,0,3,2,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Catedral patriarcal de San Jorge,4.6,4092,Catedral restaurada e imponente con reliquias,Iglesia,Fatih,1,20,0,0,0,2,0,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Puente del Bósforo,4.5,9060,Puente colgante entre Europa y Asia,Obra moderna,Üsküdar,1,20,1,0,0,8,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Museo militar de Harbiye,4.7,3620,Museo amplio sobre la historia militar turca,Museo,Şişli,1,20,1,0,0,8,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Cağaloğlu Hamam,4.7,2227,Históricos baños turcos de hace 300 años,Espacio histórico,Fatih,0,20,2,1,1,14,3,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,Mezquita de Beyazid,4.7,3635,Complejo de mezquitas terminado en 1506,Mezquita,Fatih,0,20,2,0,0,11,2,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,Pelit Chocolate Museum,4.4,6301,Museo,Museo,Esenyurt,6,20,0,0,0,1,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,Kılıc Ali Pasa Hamam,4.7,1701,Baño turco restaurado del siglo XVI,Espacio histórico,Beyoğlu,4,20,5,0,3,12,0,5,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,Ihlamur Kasırları,4.6,3234,Palacio imperial del siglo XIX con jardines,Espacio histórico,Şişli/İstanbul,1,20,0,0,0,2,5,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+43,Fatih Sultan Mehmet Bridge,4.7,1952,Puente colgante entre Asia y Europa,Obra moderna,Fatih,1,20,0,0,0,5,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+44,Ağa Hamamı,4.5,2271,Balneario público,Balneario,Beyoğlu,0,20,7,1,5,10,0,3,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Mezquita de Dolmabahçe,4.8,2265,Mezquita de estilo otomano terminada en 1853,Mezquita,Beyoğlu,0,20,0,1,3,6,1,8,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+46,Mezquita de Zeyrek,4.8,1750,Mezquita medieval del siglo XII,Mezquita,Fatih,5,20,0,0,0,8,3,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,Mezquita de Sokollu Mehmet Pasha,4.8,1675,Mezquita otomana pintoresca del siglo XVI,Mezquita,Fatih,5,20,3,0,0,12,2,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,Parque Taksim Gezi,4.2,10780,Parque famoso con numerosos árboles,Parque,Beyoğlu,4,20,1,1,4,5,1,5,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,Torre de Gálata,4.7,140096,Torre bizantina de 67 m con restaurante,Espacio histórico,Beyoğlu,4,20,3,0,3,12,1,12,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,Atatürk Museum,4.6,1499,Fotos y cuadros en la casa museo de Atatürk,Museo,Şişli,5,20,3,0,1,10,5,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,Salt Galata,4.5,900,"Galería, biblioteca y cafetería",Galería,Beyoğlu,2,20,3,0,2,12,1,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,Murallas de Constantinopla,4.5,649,"Edad antigua, ruinas, mehmed ii, imperio romano y arte bizantino",Espacio histórico,Fatih,0,20,0,0,0,2,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,Iglesia de San Esteban de los Búlgaros,4.8,1036,Iglesia ornamentada del siglo XIX,Iglesia,Fatih,0,20,0,0,0,2,0,9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,Yedikule Dungeons Museum,4.3,2523,Antigua fortaleza con torres y calabozo,Museo,Fatih,5,20,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,Fuente Alemana,4.7,1134,Mirador otomano del siglo XIX con una fuente,Mirador,Fatih,0,20,2,1,1,11,3,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,Baños del sultán Suleimán,4.6,703,Baños históricos abiertos desde el siglo XVI,Espacio histórico,Fatih,0,20,1,0,0,9,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,Acueducto de Valente,4.5,394,Imponentes restos de un acueducto romano,Espacio histórico,Fatih,1,20,1,0,0,10,1,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,Pammakaristos,4.4,968,Mezquita en una antigua iglesia bizantina,Mezquita,Fatih,0,20,0,0,0,2,0,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,Serpent Column,4.5,465,Ruinas de un antiguo monumento griego,Espacio histórico,Fatih,0,20,2,1,1,11,2,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,Museo del Pabellón de los Azulejos,4.5,420,Pabellón de un palacio y museo,Museo,Fatih,3,20,2,1,1,13,3,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,Ataturk Arboretum,4.6,12123,"Bosque, jardín y parque",Parque,Sarıyer,0,12,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,İstiklal Caddesi,4.6,2152,Avenida animada con tiendas y cafeterías,Espacio de interés,Beyoğlu,4,20,7,0,4,10,0,3,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,MACKanyon AVM,4.2,487,Compras y arquitectura,Espacio de interés,Şişli,0,20,1,0,0,6,3,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,Topkapı Sarayı,4.6,564,Salas con mosaicos y jardines palaciegos,Museo,Fatih,0,20,2,1,1,14,3,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,Yıldız Palace Museum,4.1,170,Lujoso palacio otomano del siglo XIX,Museo,Beşiktaş,3,20,1,0,0,6,4,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,Çemberlitaş Hamamı,4.0,2345,Hamán de 1584 con tratamientos de spa,Museo,Fatih,3,20,3,1,1,12,4,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,Cuerno de Oro,4.7,993,Estuario relevante con tiendas y parques,Espacio natural,Istanbul,4,20,0,0,0,4,2,7,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,ViaSea Aquarium,4.1,2656,"Parque de atracciones, acuario, montaña rusa, puerto deportivo y parque",Parque de atracciones,Tuzla,6,20,1,0,0,2,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,Belgrade Forest,4.7,2067,"Bosque, naturaleza, acampada, carrera a pie y parque",Parque,Sarıyer,4,10,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70,Bağdat Avenue,4.6,575,Animada avenida con tiendas y restaurantes,Espacio de interés,Bağdat,0,20,1,0,0,4,3,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+71,Yoros Castle,4.5,982,"Castillo, historia y arquitectura",Espacio histórico,Beykoz,0,8,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72,Şehzade Cami,0.0,0,Mehmed II y arquitectura,Espacio histórico,Fatih,1,20,1,0,0,8,1,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+73,Yavuz Sultan Selim Bridge,4.3,4832,Uno de los puentes más altos del mundo,Obra moderna,Beykoz,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,1,1,0
+74,Naval Museum,4.6,6554,Museo marítimo de Turquía,Museo,Beşiktaş,2,20,1,0,0,7,2,9,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+75,Istanbul Toy Museum,4.7,6273,Museo,Museo,Kadıköy,6,20,1,0,0,5,4,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+76,Historical Galatasaray Bath,3.8,844,Baño turco tradicional,Espacio histórico,Beyoğlu,2,20,7,1,5,11,0,2,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+77,Galata Mevlevihanesi Müzesi,4.6,3529,Museo con demostraciones de danza sufí,Museo,Beyoğlu,0,20,5,0,3,11,2,7,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,Iglesia de Santa Irene,4.3,1627,Iglesia bizantina del s. IV convertida en museo,Iglesia,Fatih,0,20,2,1,1,12,3,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+79,Bósforo,4.8,4375,Estrecho emblemático entre 2 continentes,Espacio natural,Istanbul,1,20,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+80,Büyükada,4.5,3611,Isla cautivadora con casas históricas,Espacio natural,Büyükada,4,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,Borusan Contemporary,4.6,520,"Museo, arte, museo de arte y arte moderno",Museo,Sarıyer,1,20,1,0,0,5,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,Heybeliada,4.6,842,Pequeña isla deshabitada con un monasterio,Espacio natural,Heybeliada,1,20,1,0,0,2,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,Kınalıada,4.5,332,Playa,Espacio natural,Heybeliada,1,11,1,0,1,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+84,Burgazada,4.7,450,Playa e iglesia,Espacio natural,Burgazada,4,20,1,0,1,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,Burc Beach,3.9,829,Playa y kitesurf,Espacio natural,Sarıyer,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+86,Santa Sofía,4.8,110926,Museo y basílica bizantina con mosaicos,Museo,Fatih,0,20,2,1,1,12,3,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+87,Palacio de Dolmabahçe,4.7,62012,Museo en un palacio de sultanes otomanos,Museo,Beşiktaş,1,20,0,1,1,5,1,8,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+88,Sadberk Hanım Museum,4.7,692,"Museo, arquitectura y arte",Museo,Sarıyer,1,20,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+89,Miniaturk,4.6,29222,Parque con miniaturas de monumentos de Turquía,Parque,Beyoğlu,0,20,2,0,1,3,2,6,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+90,Iglesia de San Salvador de Cora,4.4,6014,Museo con obras musulmanas y cristianas,Iglesia,Fatih,1,20,0,0,0,1,0,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+91,Museo de Historia Panorama 1453,4.6,11438,Cuadro panorámico sobre un asedio histórico,Museo,Zeytinburnu,0,20,0,0,0,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+92,Sabancı University Sakıp Sabancı Museum,4.7,4180,Museo de bellas artes en una mansión histórica,Museo,Sarıyer,0,20,0,0,0,9,0,6,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+93,Cisterna de Basílica,4.6,39041,Cisterna reformada del año 542,Espacio histórico,Fatih,2,20,2,1,1,11,3,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+94,Museo de la inocencia,4.5,2019,Casa museo sobre una novela,Museo,Beyoğlu,2,20,7,0,3,9,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+95,Rahmi M. Koç Museum,4.8,20887,Museo de aparatos industriales y coches,Museo,Beyoğlu,5,20,0,0,0,2,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+96,Museo de Arte Turco e Islámico,4.6,3461,Palacio con arte turco e islámico,Museo,Fatih,1,20,2,1,1,11,3,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+97,Palacio de Topkapi,4.7,78379,Histórico complejo palaciego otomano,Espacio histórico,Fatih,1,20,2,1,1,14,3,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+98,Museo arqueológico de Estambul,4.6,13443,Museo de arqueología de Turquía,Museo,Fatih,0,20,2,1,1,13,3,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+99,Pera Museum,4.6,4767,"Museo con cuadros, cerámica y arte moderno",Museo,Beyoğlu,1,20,7,0,3,8,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
